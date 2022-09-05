@@ -36,12 +36,12 @@ const LeftCard = () => {
           </div>
           <div>
             <p>PALS</p>
-            <i class="fa fa-group" style={{ fontSize: "36px" }}></i>
+            <i class="fas fa-group" style={{ fontSize: "36px" }}></i>
             <p>280</p>
           </div>
           <div>
             <p>COFFEE</p>
-            <i class="fa fa-coffee" style={{ fontSize: "36px" }}></i>
+            <i class="fas fa-coffee" style={{ fontSize: "36px" }}></i>
             <p>30</p>
           </div>
         </div>
