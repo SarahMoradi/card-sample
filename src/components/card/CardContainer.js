@@ -1,4 +1,4 @@
-import RightCard from "../right-card/RightCard";
+import RightCard from "./right-card/RightCard";
 import styles from "./card.module.css";
 import LeftCard from "./left-card/LeftCard";
 const CardContainer = () => {
