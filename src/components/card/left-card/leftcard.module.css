@@ -1,0 +1,76 @@
+.image_container {
+  display: flex;
+  justify-content: center;
+}
+.image_container img {
+  border-radius: 50%;
+  margin: 30px 0;
+}
+.level_container {
+  text-align: center;
+  background-color: #bf5a52;
+  border-radius: 20px;
+  color: #fff;
+  font-weight: bold;
+  padding: 3px 4px;
+  width: 100px;
+  margin-left: 10px;
+}
+.points_container {
+  text-align: center;
+  width: 130px;
+}
+.points_container {
+  padding: 3px 10px;
+  text-align: center;
+  background-color: #bf5a52;
+  border-radius: 20px;
+  color: #fff;
+  font-weight: bold;
+}
+.left_card_details {
+  width: 500px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.header_section {
+  color: #fff;
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+.header_info {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 50px;
+}
+.header_info p {
+  font-size: 20px;
+  color: #fff;
+}
+.options {
+  margin: 70px 0 0 50px;
+  display: flex;
+  width: 100%;
+}
+.options div {
+  width: 23%;
+  text-align: center;
+}
+.options div i {
+  color: #fff;
+}
+.options div p {
+  font-weight: bold !important;
+  color: #fff;
+  font-size: 24px;
+}
+.options div :nth-child(1) {
+  font-weight: bold !important;
+  color: #fff;
+  font-size: 16px;
+  margin-bottom: 10px;
+}

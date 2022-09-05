@@ -1,0 +1,12 @@
+.right_info_container {
+  height: 100%;
+  display: flex;
+}
+.header_section {
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  margin-top: 9px;
+  margin-bottom: 10px;
+  margin-left: -40px;
+}
