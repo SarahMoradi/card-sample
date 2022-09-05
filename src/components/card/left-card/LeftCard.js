@@ -26,22 +26,22 @@ const LeftCard = () => {
         <div className={styles.options}>
           <div>
             <p>AWARDS</p>
-            <i class="fa fa-medal" style={{ fontSize: "36px" }}></i>
+            <i className="fa fa-trophy" style={{ fontSize: "36px" }}></i>
             <p>2</p>
           </div>
           <div>
             <p>MATCHES</p>
-            <i class="fa fa-gamepad" style={{ fontSize: "36px" }}></i>
+            <i className="fa fa-gamepad" style={{ fontSize: "36px" }}></i>
             <p>126</p>
           </div>
           <div>
             <p>PALS</p>
-            <i class="fa fa-group" style={{ fontSize: "36px" }}></i>
+            <i className="fa fa-group" style={{ fontSize: "36px" }}></i>
             <p>280</p>
           </div>
           <div>
             <p>COFFEE</p>
-            <i class="fa fa-coffee" style={{ fontSize: "36px" }}></i>
+            <i className="fa fa-coffee" style={{ fontSize: "36px" }}></i>
             <p>30</p>
           </div>
         </div>
